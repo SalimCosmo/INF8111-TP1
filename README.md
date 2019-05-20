@@ -1,2 +1,3 @@
 # INF8111-TP1
-Data mining
+
+Created the repo to easily download data set into Google colab.
